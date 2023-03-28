@@ -22,3 +22,48 @@ Streamlit documentation and programming examples can be found [here](https://pag
 Line Charts 
 [Line Chart Documentation](https://docs.streamlit.io/library/api-reference/charts/st.line_chart)
 
+'''
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+chart_data = pd.DataFrame(
+    np.random.randn(20, 3),
+    columns=['a', 'b', 'c'])
+
+st.line_chart(chart_data)
+'''
+
+Bar Charts 
+[Bar Chart Documentation](https://docs.streamlit.io/library/api-reference/charts/st.bar_chart)
+
+'''
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+chart_data = pd.DataFrame(
+    np.random.randn(50, 3),
+    columns=["a", "b", "c"])
+
+st.bar_chart(chart_data)
+'''
+
+
+Maps
+[Map Documentation](https://docs.streamlit.io/library/api-reference/charts/st.map)
+
+'''
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame(
+    np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4],
+    columns=['lat', 'lon'])
+
+st.map(df)
+'''
+
+
+
