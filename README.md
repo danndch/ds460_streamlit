@@ -89,7 +89,7 @@ st.map(df)
 ### ML Deployment with Streamlit
 App development Example
 - https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
-- Example [here](https://github.com/danndch/ds460_streamlit/blob/main/streamlit/index.py)
+- Example [here](https://github.com/danndch/ds460_streamlit/blob/main/streamlit/demo.py)
 
 
 
