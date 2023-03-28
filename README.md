@@ -26,7 +26,7 @@ Lets put a simple title
 st.title("I know what I'm doing")
 ```
 
-**- Save the file**
+- **Save the file**
 
 In terminal:
 ```
