@@ -12,9 +12,13 @@ Repository for Data Science 460 from BYU-Idaho, helping them set up an machine l
 
 ### ML Deployment with Streamlit
 App development Example
-https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
+- https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
 
 
-### Charts & Programming in Streamlit
+### Charts in Streamlit
 
-Streamlit documentation and programming examples can be found [here](https://pages.github.com/)
+Streamlit documentation and programming examples can be found [here](https://pages.github.com/) 
+
+Line Charts 
+[Line Chart Documentation](https://docs.streamlit.io/library/api-reference/charts/st.line_chart)
+
