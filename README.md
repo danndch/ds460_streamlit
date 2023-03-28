@@ -13,6 +13,7 @@ Repository for Data Science 460 from BYU-Idaho, helping them set up an machine l
 ### ML Deployment with Streamlit
 App development Example
 - https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
+- Example [here](https://github.com/danndch/ds460_streamlit/blob/main/streamlit/index.py)
 
 ## App Deployment
 
