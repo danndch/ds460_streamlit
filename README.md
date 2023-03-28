@@ -8,12 +8,6 @@ Repository for Data Science 460 from BYU-Idaho, helping them set up an machine l
 - uses basic commands to deploy a local webpage with interactive components and other elements from your python code
 - this allows us to create our ML model using Python scripts and then deploy it to a shareable webpage
 
-
-### ML Deployment with Streamlit
-App development Example
-- https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
-- Example [here](https://github.com/danndch/ds460_streamlit/blob/main/streamlit/index.py)
-
 ## App Deployment
 
 Open your terminal
@@ -91,6 +85,12 @@ df = pd.DataFrame(
 
 st.map(df)
 ```
+
+### ML Deployment with Streamlit
+App development Example
+- https://www.youtube.com/watch?v=Klqn--Mu2pE&t=211s
+- Example [here](https://github.com/danndch/ds460_streamlit/blob/main/streamlit/index.py)
+
 
 
 ## Links
