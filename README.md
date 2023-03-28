@@ -94,8 +94,8 @@ st.map(df)
 
 
 ## Links
-https://docs.streamlit.io/
-https://docs.streamlit.io/library/api-reference/charts
-https://docs.streamlit.io/library/api-reference/data
-https://docs.streamlit.io/library/api-reference/widgets
-https://docs.streamlit.io/library/api-reference/status
+https://docs.streamlit.io/ 
+https://docs.streamlit.io/library/api-reference/charts 
+https://docs.streamlit.io/library/api-reference/data 
+https://docs.streamlit.io/library/api-reference/widgets 
+https://docs.streamlit.io/library/api-reference/status 
