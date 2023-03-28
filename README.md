@@ -33,7 +33,7 @@ In terminal:
 streamlit run [yourFile].py
 ```
 
-You're doing GREAT! Lets add somemore stuff!
+You're doing GREAT! Lets add more stuff!
 
 
 ### Charts in Streamlit
