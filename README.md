@@ -1,8 +1,7 @@
-# ds460_nuggies_streamlit
+# ds460_nuggies_streamlit: Streamlit Application Overview & Docuementation 
+
 Repository for Data Science 460 from BYU-Idaho, helping them set up an machine learning app with Docker.
 
-
-# Streamlit Application Overview & Docuementation
 ## What is streamlit
 
 - importable package designed for creating webpages from simple scripts
