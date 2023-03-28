@@ -21,7 +21,7 @@ streamlit run app.py
 Therefore, when building a Streamlit app, you would generally use st.write() to display content within the app, while magic commands are used for specific tasks.
 
 ## Display data
-st.dataframe(my_dataframe) <\br>
+st.dataframe(my_dataframe) <br />
 st.table(data.iloc[0:10])
 st.json({'was':'I','me':'lee'})
 st.metric('My metric', 42, 2)
