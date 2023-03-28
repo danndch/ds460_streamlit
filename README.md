@@ -1,4 +1,4 @@
-# ds460_nuggies_streamlit: Streamlit Application Overview & Docuementation 
+# Streamlit Application Overview & Docuementation 
 
 Repository for Data Science 460 from BYU-Idaho, helping them set up an machine learning app with Docker.
 
